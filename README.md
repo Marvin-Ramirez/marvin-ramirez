@@ -29,7 +29,6 @@ Me considero una persona adaptable, enfocada en la resolución de problemas y en
 ---
 
 ### En qué estoy trabajando actualmente
-* Desarrollando proyectos full-stack integrando Node.js y Express.
 * Buscando oportunidades para crecer profesionalmente en el desarrollo de software.
 
 **¿Cómo contactarme?** 
